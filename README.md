@@ -4,6 +4,12 @@ Having a portfolio, I believe is one of the main points of setting yourself apar
 I've also added incomplete projects on here as a way to "push" me in the right direction. If it's public, I have to do it right?!
 
 ----
+### Todo
+- Add relevant projects
+- JS flourishingsss
+- Add tailwind css or semantic UI
+
+----
 ### My Projects
 - BankBlack - A webapp showcasing bank institutions in your area that are ran by people of color (in progress)
 - Bomsie - The easiest way for fine art companies to book new jobs and run better businesses, saving cost and improving revenue. (in progress)
