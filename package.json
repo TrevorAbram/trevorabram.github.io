@@ -1,0 +1,22 @@
+{
+  "name": "trevorabram.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrevorAbram/trevorabram.github.io.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "trevor abram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TrevorAbram/trevorabram.github.io/issues"
+  },
+  "homepage": "https://github.com/TrevorAbram/trevorabram.github.io#readme"
+}
