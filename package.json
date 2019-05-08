@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/TrevorAbram/trevorabram.github.io/issues"
   },
-  "homepage": "https://github.com/TrevorAbram/trevorabram.github.io#readme"
+  "homepage": "https://github.com/TrevorAbram/trevorabram.github.io#readme",
+  "dependencies": {
+    "npm": "^6.9.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^0.7.4"
+  }
 }
