@@ -127,6 +127,8 @@ let colors = {
   'pink-light': '#fa7ea8',
   'pink-lighter': '#ffbbca',
   'pink-lightest': '#ffebef',
+
+  'tan': 'rgba(152, 149, 126, 1)',
 }
 
 module.exports = {
@@ -247,7 +249,7 @@ module.exports = {
   | prefer, be it rems, ems, pixels or other.
   |
   | Class name: .text-{size}
-  | CSS property: font-size
+  | CSS property:
   |
   */
 

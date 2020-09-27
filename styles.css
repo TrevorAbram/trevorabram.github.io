@@ -1,7 +1,54 @@
 @tailwind preflight;
-
 @tailwind utilities;
 
 .fade-in {
-  -webkit-animation: fade-in 1.2s both
+  -webkit-animation: fade-in 1.2s both;
   animation: fade-in 1.2s }
+
+* {
+  font-family: 'Montserrat', sans-serif;
+  font-style: normal;
+}
+
+.rotate-90 {
+  transform: rotate(90deg);
+}
+
+.tcs {
+  position: absolute;
+  width: 2012px;
+  height: 244px;
+  left: -286px;
+  top: 454px;
+
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 200px;
+  line-height: 244px;
+  /* identical to box height */
+
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+
+  color: rgba(210, 207, 175, 0.13);
+
+}
+
+.nav-menu-link {
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 17px;
+  /* identical to box height */
+
+  letter-spacing: 0.025em;
+  text-transform: uppercase;
+
+  color: #C4C4C4;
+  }
+
+.tan {
+  color: #D2CFAF;
+}
