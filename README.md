@@ -1,7 +1,7 @@
 ### Background
 I'm Trevor, a freelance UI designer with 6 years of experience. I also practice and actively learn front-end development using JavaScript and React(and sometimes Ember.js). Some time ago, I decided it was best to see my "designs" come to life, hence my introduction to the wonderful world of code.
 
-To work with me on a project or for consultations, shoot me a message or email. You can also find me on Instagram [@TrevCodesStuff](https://instagram.com/TrevCodesStuff)
+To work with me on a project or for consultations, shoot me a message or email. You can also find me on Instagram [@TrevDoesDigital](https://instagram.com/Trevdoesdigital)
 
 ----
 ### Todo
