@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/TrevorAbram/trevorabram.github.io#readme",
   "dependencies": {
-    "npm": "^9.9.2"
+    "npm": "^11.7.0"
   },
   "devDependencies": {
     "tailwindcss": "^0.7.4"
