@@ -23,6 +23,6 @@
     "npm": "^11.11.0"
   },
   "devDependencies": {
-    "tailwindcss": "^0.7.4"
+    "tailwindcss": "^4.3.3"
   }
 }
